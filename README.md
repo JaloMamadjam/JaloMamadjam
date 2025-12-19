@@ -23,7 +23,9 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </div>
 
----### 🌐 Connect with Me
+---
+
+### 🌐 Connect with Me
 <div> 
   <a href="https://www.instagram.com/mamadjam_jalo" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
