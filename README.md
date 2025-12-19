@@ -33,7 +33,7 @@
   <a href="https://discord.com/users/mamadjamj" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a> 
-  <a href="mailto:jalomamadjam7@gmail.com">
+  <a href="mailto:jalomamadjam7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mamadjam-jal%C3%B3-495950300" target="_blank">
