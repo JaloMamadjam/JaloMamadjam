@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi! I'm Mamadjam Jalo
+🎓 Computer Engineering student at **UFSC (Brazil)**  
+💻 Interested in **Software Development, Hardware, Embedded Systems & Web Technologies** 
 
-<!--
-**JaloMamadjam/JaloMamadjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 📚 Studying **Computer Engineering**
+- 🔧 Background with **hardware, sensors, microcontrollers and robotics**
+- 🌱 Currently improving my skills in **Full Stack Development**
+- 🎯 Building **real projects** and giving **real contribuitions**
+- 🧠 Focusing in **problem solving, systems and engineering mindset**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>        
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+</div>
+
+---
+
+### 🌐 Connect with Me
+<div> 
+  <a href="https://www.instagram.com/mamadjam_jalo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/mamadjamj" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a> 
+  <a href="mailto:jalomamadjam7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mamadjam-jal%C3%B3-495950300" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+</div>
